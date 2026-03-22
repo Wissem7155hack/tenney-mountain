@@ -1092,7 +1092,7 @@ const Testimonials = () => {
               <Star className="w-8 h-8 md:w-10 md:h-10 fill-amber-500 border-none text-amber-500" />
             </div> */}
             <a
-              href="/review.html"
+              href="/public/review.html"
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block w-full py-5 bg-[#b58735] hover:bg-[#a37a30] text-white font-black rounded-lg transition-all shadow-lg uppercase tracking-widest text-lg"
